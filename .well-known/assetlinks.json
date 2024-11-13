@@ -1,0 +1,8 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.university.noungpa",
+      "sha256_cert_fingerprints": ["13:8F:52:E5:56:75:0B:53:47:7E:C3:78:E1:6F:FF:24:44:00:FD:D7:B8:94:ED:5B:17:A6:E7:E2:76:E3:1E:8E"]
+    }
+  }]
